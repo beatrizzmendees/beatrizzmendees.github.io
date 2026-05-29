@@ -15,16 +15,6 @@ Estudante de **Engenharia de Produção** na UNIFEI. Busco oportunidades que imp
 
 ---
 
-## 📸 Prévia
-
-| Não se trata de uma questão de... | Portfólio |
-|---|---|
-| Herói com foto e redes sociais | Linha do tempo de educação e experiência |
-| Habilidades | Projetos |
-| Cards com habilidades e ferramentas | Cards com links para repositórios e empresas |
-
----
-
 ## 🛠️ Tecnologias utilizadas
 
 | Tecnologia | Finalidade |
